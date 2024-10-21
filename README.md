@@ -61,16 +61,11 @@
 🔴 Deploy both to render
 
 
-# BUGS
 
-  Email : sohammanchekar31@gmail.com (Welcome, say hi)
   
     Subject : soham-restaurant-dine(MERN)
   
-# Author
 
-  Soham Manchekar
-  https://github.com/SohamManchekar
   
   
   
